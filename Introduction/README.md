@@ -1,2 +1,6 @@
-# UWE-Coding-Club
-UWE Coding Club 2016-2017
+# Introduction
+======
+Hello Coding Cluub Members!
+
+- [ ] create an introduction of how to use github
+- [ ] create a website
