@@ -1,0 +1,17 @@
+Welcome Coding Club Members!
+
+To start:
+  Create a GitHub account
+    So you can create, share and collaborate on projects
+
+  Download GitHub Desktop
+    Link: https://desktop.github.com/
+    This is available for Mac and Windows, and saves you from understanding
+      what Git is and Git command line (scary stuff!)
+    Sorry Linux users, you will have to use Git in command line :(
+
+  Become a GitHub Student (optional)
+    Link: https://education.github.com/
+    You can get LOADS of discounts and free software as a student
+    You can also get private repositories to only be available to people you want to see
+    Just have a read of it and see how important it can be!
