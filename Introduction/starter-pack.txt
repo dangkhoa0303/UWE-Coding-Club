@@ -7,7 +7,7 @@ To start:
   Download GitHub Desktop
     Link: https://desktop.github.com/
     This is available for Mac and Windows, and saves you from understanding
-      what Git is and Git command line (scary stuff!)
+      what Git is and Git command line (scary stuff!). However we can (if people want) learn the command line if the GUI fails...
     Sorry Linux users, you will have to use Git in command line :(
 
   Become a GitHub Student (optional)
@@ -15,3 +15,17 @@ To start:
     You can get LOADS of discounts and free software as a student
     You can also get private repositories to only be available to people you want to see
     Just have a read of it and see how important it can be!
+
+
+  Create a HackerRank profile!
+    Great to do some challenges and programming projects
+    Actual companies can even release challenges (you could get an interview from them later)
+    
+  Get an IDE/Text Editor
+    IDE -> auto completes as well as runs your code (and some other cool stuff)
+      NetBeans/Eclipse for Java and other languages
+    Text editor -> barebones code! Doesn't do most fancy stuff that an IDE can do but is faster than an IDE (since it is lightweight)
+      Notepad++, Sublime Text, Atom...
+      
+  If you don't have an IDE/Text editor set up yet, go onto IDEOne. It is a place where you can code/run code online!
+  https://ideone.com/
