@@ -4,7 +4,7 @@ How to use GitHub:
   First clone this repository using your GitHub Desktop
     This gives you a local copy of the code onto your computer!
 
-  Once you have cloned the repo, post your name below!
+  Once you have cloned the repo, post your name below!!
   //////////////////////
   Name:
 
